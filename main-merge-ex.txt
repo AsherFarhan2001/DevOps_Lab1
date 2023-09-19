@@ -4,3 +4,5 @@ Hello
 =======
 Hello from main merge ex teext file
 >>>>>>> conflict
+
+My name is Asher
