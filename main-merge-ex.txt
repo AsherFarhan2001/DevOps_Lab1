@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello from main merge ex teext file
 Hello
+=======
+Hello from main merge ex teext file
+>>>>>>> conflict
